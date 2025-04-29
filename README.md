@@ -7,7 +7,6 @@ Users can browse, search, and filter Pokémon using data from the PokéAPI.
 
 👉 [View it on GitHub Pages](https://amanparida.github.io/pokemon-explorer)
 
-![GitHub Pages](https://img.shields.io/badge/Live--Demo-Click%20Here-blue?style=for-the-badge)
 
 ---
 
